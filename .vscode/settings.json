@@ -6,6 +6,6 @@
   },
   "codescan.connectedMode.project": {
     "connectionId": "githubrepos",
-    "projectKey": "vitaliysergeychik-VSCodeScanDemo"
+    "projectKey": "vscodescandemo_githubrepos"
   }
 }
