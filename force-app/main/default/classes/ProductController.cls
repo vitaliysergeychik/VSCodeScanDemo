@@ -14,8 +14,7 @@ public with sharing class ProductController {
         public String[] levels { get; set; }
     }
 
-    //Adding some comments to the Product Controller File
-    //Add some more comments to test ci commit job4
+    //Adding Comment
     @AuraEnabled(Cacheable=true scope='global')
     public static PagedResult getProducts(Filters filters, Integer pageNumber) {
         String key, whereClause = '';
