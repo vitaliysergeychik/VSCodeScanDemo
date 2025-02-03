@@ -5,6 +5,10 @@
         <name>ApexTrigger</name>
     </types>
     <types>
+        <members>AccountController</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
         <members>Account.Number_of_Contacts__c</members>
         <members>Product_Family__c.Category__c</members>
         <members>Product_Family__c.Description__c</members>
