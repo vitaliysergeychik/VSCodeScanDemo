@@ -48,14 +48,14 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
-                <componentName>helloWorld</componentName>
-                <identifier>c_helloWorld</identifier>
+                <componentName>home:assistant</componentName>
+                <identifier>home_assistant</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
             <componentInstance>
-                <componentName>home:assistant</componentName>
-                <identifier>home_assistant</identifier>
+                <componentName>helloWorld</componentName>
+                <identifier>c_helloWorld</identifier>
             </componentInstance>
         </itemInstances>
         <mode>Replace</mode>
